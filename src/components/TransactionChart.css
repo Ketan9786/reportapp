@@ -1,0 +1,19 @@
+
+
+.chart{
+  display: flex;
+  flex-wrap: wrap;
+  flex-shrink:initial;
+ padding-left: 10%;
+ padding-right: 10%;
+ padding-top: 2%;
+}
+
+
+.button2 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 2%;
+ 
+}

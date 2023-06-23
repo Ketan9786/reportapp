@@ -1,0 +1,24 @@
+
+.flex2{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 4%;
+    
+    }
+
+    .background{
+        background-color: rgb(120, 206, 255);
+    }
+ 
+
+    .button1 {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        padding: 2%;
+       
+      }
+
+ 
